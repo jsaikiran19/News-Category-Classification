@@ -16,3 +16,5 @@ The model has 7 different layers:
 7) Dense 
 
 The model is trained on keras and is deployed using FAST API.
+
+The dataset in this repo was taken from Machine Hack as part of a competition. (https://machinehack.com/hackathons/predict_the_news_category_hackathon/data)
